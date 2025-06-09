@@ -55,12 +55,6 @@ This project is a full-fledged eCommerce website built using Django, a high-leve
 
 ![Contact-Us Screenshot](Screenshots/Contact-Us.png)
 
-
-
-### Shopping Cart Page
-
-![Cart Page Screenshot](Screenshots/Shopping-Cart.png)
-
 ### Payment Testing View Page
 
 ![Payment Testing Page Screenshot](Screenshots/Payment-Testing-View.png)
