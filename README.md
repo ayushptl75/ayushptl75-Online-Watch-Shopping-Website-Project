@@ -41,9 +41,7 @@ This project is a full-fledged eCommerce website built using Django, a high-leve
 
 ![Homepage Screenshot](Screenshots/Home-Django-Ecommerce-Site.png)
 
-### Wishlist Page
 
-![Wishlist Screenshot](Screenshots/Wishlist.png)
 
 ### Order History Page
 
