@@ -39,7 +39,7 @@ This project is a full-fledged eCommerce website built using Django, a high-leve
 
 ### Home Page
 
-![Homepage Screenshot](Screenshots/Home-Django-Ecommerce-Site.png)
+![Homepage Screenshot](D:\Django-eCommerce-Website-main\Screenshots\Home-Django-Ecommerce-Site.pngg)
 
 
 
